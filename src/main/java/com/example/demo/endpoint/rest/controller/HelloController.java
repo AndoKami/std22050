@@ -10,6 +10,6 @@ public class HelloController {
 
   @GetMapping("/hello")
   public String hello() {
-    return "hello - STD21099";
+    return "hello - STD22050";
   }
 }
